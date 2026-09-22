@@ -2,7 +2,6 @@
 # 🛡️ AI SOC Copilot Dashboard
 
 A modern, responsive, and interactive **AI-powered Security Operations Center (SOC) Dashboard** built using **HTML, CSS, and JavaScript**. This project simulates a real-world SOC environment where security analysts can monitor alerts, analyze threats, visualize security metrics, and investigate incidents through an intuitive interface.
-
 ---
 
 ## 📌 Project Overview
