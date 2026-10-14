@@ -52,7 +52,6 @@ AI-SOC-Copilot/
 ```bash
 git clone https://github.com/yourusername/ai-soc-copilot.git
 ```
-
 2. Open the project folder.
 
 3. Launch `index.html` in your web browser.
