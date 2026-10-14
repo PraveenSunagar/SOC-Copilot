@@ -59,7 +59,6 @@ git clone https://github.com/yourusername/ai-soc-copilot.git
 No installation or additional dependencies are required.
 
 ---
-
 ## 📸 Screenshots
 
 Example:
