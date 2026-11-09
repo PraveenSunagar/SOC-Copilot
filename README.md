@@ -11,7 +11,6 @@ The **AI SOC Copilot Dashboard** is designed to demonstrate the workflow of a Se
 This project is intended for learning, portfolio demonstration, and frontend development practice in cybersecurity.
 
 ---
-
 ## 🚀 Features
 
 * 📊 Professional SOC Dashboard UI
