@@ -27,7 +27,6 @@ This project is intended for learning, portfolio demonstration, and frontend dev
 * 📉 Interactive Charts using Chart.js
 
 ---
-
 ## 📂 Project Structure
 
 ```text
